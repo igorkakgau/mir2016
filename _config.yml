@@ -2,7 +2,7 @@ title: Mir2016
 description: Хранилище по МИР
 google_analytics: 
 show_downloads: true
-theme: jekyll-theme-minimal
+theme: jekyll-theme-leap-day
 
 gems:
   - jekyll-mentions
