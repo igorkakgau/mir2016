@@ -1,3 +1,6 @@
+### Китайские пельмени
+17 января 2017
+https://igorkakgau.github.io/mir2016/after_34/
 ### лабораторная 1
 7 октября 2016
 https://igorkakgau.github.io/mir2016/lab1/aboutme.html
